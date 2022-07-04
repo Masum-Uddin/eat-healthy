@@ -1,0 +1,22 @@
+.skip{color: orange;}
+body{font-family: 'Poppins', sans-serif;
+margin: 0%;}
+.first-section{display: flex;
+width: 100%;
+margin-left: 4%;}
+.half-with{
+    width: 50%;
+    margin-left: 30px;
+    height: 50%;}
+h1{font-size: 50px;}
+.half-with img{width: 80%;
+padding-left: 10%;}
+.fb{color:white;
+text-decoration: none;
+background-image: linear-gradient(orange,tomato);
+padding: 15px;
+border-radius: 15px;
+}
+.first-p{margin-bottom: 5%;}
+
+
